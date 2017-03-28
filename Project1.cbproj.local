@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2017/03/27 23:26:53.400,=C:\Users\osmir\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2017/03/27 23:26:53.460,=C:\Users\osmir\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017/03/27 23:27:30.876,D:\GitHub\processamentoImagens-TR4\negativo.dfm=C:\Users\osmir\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017/03/27 23:27:30.876,D:\GitHub\processamentoImagens-TR4\negativo.h=C:\Users\osmir\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2017/03/27 23:27:30.876,D:\GitHub\processamentoImagens-TR4\negativo.cpp=C:\Users\osmir\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017/03/27 23:27:34.238,D:\GitHub\processamentoImagens-TR4\Project1PCH1.h=C:\Users\osmir\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2017/03/27 23:27:36.066,D:\GitHub\processamentoImagens-TR4\Project1.cbproj=C:\Users\osmir\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
