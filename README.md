@@ -1,2 +1,4 @@
 # processamentoImagens-TR4
-Implementação negativo em uma imagem
+
+
+Implementação da função transformação de intensidade negativo
