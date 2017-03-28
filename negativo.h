@@ -16,8 +16,11 @@ __published:	// IDE-managed Components
 	TImage *Image1;
 	TSpeedButton *SpeedButton1;
 	TSpeedButton *SpeedButton2;
+	TLabel *Label1;
 	void __fastcall SpeedButton2Click(TObject *Sender);
+	void __fastcall SpeedButton1Click(TObject *Sender);
 private:	// User declarations
+TColor cor;
 public:		// User declarations
 	__fastcall TForm1(TComponent* Owner);
 };

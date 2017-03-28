@@ -2,7 +2,7 @@ object Form1: TForm1
   Left = 0
   Top = 0
   Caption = 'Negativo em Imagem'
-  ClientHeight = 435
+  ClientHeight = 478
   ClientWidth = 765
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
@@ -14,13 +14,13 @@ object Form1: TForm1
   PixelsPerInch = 96
   TextHeight = 13
   object Image1: TImage
-    Left = 8
-    Top = 56
-    Width = 570
-    Height = 340
+    Left = 16
+    Top = 64
+    Width = 598
+    Height = 385
   end
   object SpeedButton1: TSpeedButton
-    Left = 608
+    Left = 620
     Top = 240
     Width = 137
     Height = 49
@@ -88,10 +88,11 @@ object Form1: TForm1
       FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
       FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF}
     ParentFont = False
+    OnClick = SpeedButton1Click
   end
   object SpeedButton2: TSpeedButton
-    Left = 608
-    Top = 129
+    Left = 620
+    Top = 161
     Width = 137
     Height = 49
     Caption = 'Imagem'
@@ -159,5 +160,18 @@ object Form1: TForm1
       FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF}
     ParentFont = False
     OnClick = SpeedButton2Click
+  end
+  object Label1: TLabel
+    Left = 264
+    Top = 8
+    Width = 255
+    Height = 33
+    Caption = 'Negativo em imagem'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clMenuHighlight
+    Font.Height = -27
+    Font.Name = 'Roboto Bk'
+    Font.Style = [fsBold]
+    ParentFont = False
   end
 end
