@@ -36,11 +36,11 @@ void __fastcall TForm1::SpeedButton1Click(TObject *Sender)
 			g = GetGValue(cor);
 			b = GetBValue(cor);
 
-			r = -r;
-			g = -g;
-			b = -b;
+//			r = 255-r;
+//			g = 255-g;
+//			b = 255-b;
 
-			Image1->Canvas->Pixels[x][y] = 255+RGB(r,g,b);
+			Image1->Canvas->Pixels[x][y] = 255+RGB(-r,-g,-b);
 		}
 	}
 }
